@@ -3,5 +3,5 @@ dist
 dev-dist
 *.local
 # Personal roster data never goes into the repo
-import/
+/import/
 .claude/
