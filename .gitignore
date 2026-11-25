@@ -1,0 +1,7 @@
+node_modules
+dist
+dev-dist
+*.local
+# Personal roster data never goes into the repo
+import/
+.claude/
